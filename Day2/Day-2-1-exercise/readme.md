@@ -1,3 +1,6 @@
+# Day 2 - 1 Excercise done:
+LivePreview: 
+https://replit.com/@jcervantesb/day-2-1-exercise?embed=1&output=1#main.py
 ## Data Types
 
 # Instructions
