@@ -4,4 +4,4 @@ Welcome to the Band Name Generator
 
 
 #Band Name Generator
-https://replit.com/@jcervantesb/tip-calculator-start?embed=1&output=1#main.py
+https://replit.com/@jcervantesb/day-1-printing-start?embed=1&output=1#main.py
